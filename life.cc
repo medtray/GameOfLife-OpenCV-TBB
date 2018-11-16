@@ -1,12 +1,5 @@
 /**
- * CSE 411
- * Fall 2018
- * Programming Assignment #4
- *
- * There are two goals to this assignment.  The first is to implement an
- * iterative simulation.  The second is to practice visualization of a
- * simulation.  To that end, we will write a program that generates videos that
- * depict the execution of Conway's Game of Life.
+ 
  *
  * Conway's Game of Life is a simulation, which takes as its initial state a
  * two-dimensional grid of zeroes and ones.  The state of a cell in step k+1 is
@@ -45,12 +38,6 @@
  * creation of frames, and (b) pass frames to the video output generator.  Be
  * sure to use appropriate smart pointers to avoid memory leaks.
  *
- * Your program should use advanced features of C++ whenever appropriate.  It
- * should compile with g++ version 7.  You should organize your code into files
- * in a way that is appropriate.  You should comment your code.  You should only
- * use libraries that are easily installed into an Ubuntu Docker container.
- *
- * Turn-in will be via bitbucket.
  */
 
 #include <iostream>
