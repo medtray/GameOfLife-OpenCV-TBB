@@ -14,12 +14,12 @@
  * - If a "0" cell has exactly three live neighbors, then it becomes "1" in the
  *   next round.  This is "reproduction".
  *
- * The input to your program will be a text file of N lines, each of which
+ * The input to program will be a text file of N lines, each of which
  * contains M columns.  The values in this file will be 1s and 0s, and they will
  * represent the initial state of the game.  This input should be given by the
  * "-i" parameter.
  *
- * The output of your program will be a video file, generated with OpenCV.  The
+ * The output of program will be a video file, generated with OpenCV.  The
  * file name will be determined by the "-o" parameter.  The frame rate of the
  * video will be determined by the "-f" parameter.  The number of pixels per
  * cell of the game will be determined by the "-p" parameter.  Your program
