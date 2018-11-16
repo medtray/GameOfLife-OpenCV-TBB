@@ -1,0 +1,2 @@
+./life.exe -i example.txt -o video.avi -s 1,5,7,8,12,15,82,387,1000,1500 -f 16 -p 1000 -r 2500 -w "Project 4"
+
