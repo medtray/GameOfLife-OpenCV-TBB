@@ -32,4 +32,4 @@
  *
  * TBB pipeline is used to (a) parallelize the creation of frames, and (b) pass frames to the video output generator. 
 
-[![Watch the video](https://github.com/medtray/GameOfLife-OpenCV-TBB/tree/master/Project4Output/frame1.png)](https://github.com/medtray/GameOfLife-OpenCV-TBB/tree/master/Project4Output/video.avi)
+![Demo](demo.gif)
